@@ -4,7 +4,7 @@ A CLIP-based framework for recognizing driver vigilance and distraction by align
 
 ## Framework Overview
 
-![Vigi-CLIP Framework](framework01.png)
+![Vigi-CLIP Framework](framework01.PNG)
 
 ## Description
 
