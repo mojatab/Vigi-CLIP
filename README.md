@@ -8,7 +8,9 @@ A CLIP-based framework for recognizing driver vigilance and distraction by align
 
 ## Demo
 
-![Vigi-CLIP Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Vigi-CLIP Demo" width="700">
+</p>
 
 ## Description
 
