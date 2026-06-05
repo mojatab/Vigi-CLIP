@@ -6,6 +6,10 @@ A CLIP-based framework for recognizing driver vigilance and distraction by align
 
 ![Vigi-CLIP Framework](framework01.PNG)
 
+## Demo
+
+![Vigi-CLIP Demo](demo.gif)
+
 ## Description
 
 Vigi-CLIP is a vision-language framework for driver vigilance monitoring.
